@@ -1,4 +1,4 @@
-remote_theme: SpaceG/glas@main
+remote_theme: SpaceG/glas@master
 plugins:
 - jekyll-remote-theme
 
