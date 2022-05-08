@@ -1,0 +1,9 @@
+remote_theme: SpaceG/glas@main
+plugins:
+- jekyll-remote-theme
+
+title: Jeryn Chang
+description: Cat loaf or bread loaf
+
+author:
+  name: Jeryn Chang
