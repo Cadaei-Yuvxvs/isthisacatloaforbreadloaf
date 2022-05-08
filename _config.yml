@@ -1,9 +1,15 @@
-remote_theme: SpaceG/glas@master
+remote_theme: starry99/catbook@master
 plugins:
 - jekyll-remote-theme
 
-title: Jeryn Chang
-description: Cat loaf or bread loaf
+title: Cat Loaf or Bread Loaf #Your awesome title
+email: #youremail@domain.com
+description: > # this means to ignore newlines until "baseurl"
+  Answering the important questions in life: Is this a cat loaf or bread loaf?
+baseurl: # the subpath of the site
+url: https://cadaei-yuvxvs.github.io/isthisacatloaforbreadloaf/ # the base hostname & protocol for your site
 
-author:
-  name: Jeryn Chang
+user:
+  name: Loaf
+  pic: /assets/img/cat.jpg
+  picAlt: "A cat loaf"
